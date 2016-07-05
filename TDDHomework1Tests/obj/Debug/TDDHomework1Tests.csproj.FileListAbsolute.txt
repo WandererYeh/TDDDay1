@@ -1,0 +1,10 @@
+D:\Prog\TDDHomework1Tests\obj\Debug\TDDHomework1Tests.csprojResolveAssemblyReference.cache
+D:\Prog\TDDHomework1Tests\bin\Debug\TDDHomework1Tests.dll
+D:\Prog\TDDHomework1Tests\bin\Debug\TDDHomework1Tests.pdb
+D:\Prog\TDDHomework1Tests\bin\Debug\ExpectedObjects.dll
+D:\Prog\TDDHomework1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Prog\TDDHomework1Tests\bin\Debug\TDDHomework1.exe
+D:\Prog\TDDHomework1Tests\bin\Debug\TDDHomework1.pdb
+D:\Prog\TDDHomework1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Prog\TDDHomework1Tests\obj\Debug\TDDHomework1Tests.dll
+D:\Prog\TDDHomework1Tests\obj\Debug\TDDHomework1Tests.pdb
