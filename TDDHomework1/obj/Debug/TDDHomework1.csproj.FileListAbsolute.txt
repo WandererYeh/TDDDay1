@@ -4,3 +4,6 @@ D:\Prog\TDDHomework1\bin\Debug\TDDHomework1.pdb
 D:\Prog\TDDHomework1\obj\Debug\TDDHomework1.csprojResolveAssemblyReference.cache
 D:\Prog\TDDHomework1\obj\Debug\TDDHomework1.exe
 D:\Prog\TDDHomework1\obj\Debug\TDDHomework1.pdb
+D:\Prog\TDDDay1\TDDDay1\TDDHomework1\bin\Debug\TDDHomework1.exe.config
+D:\Prog\TDDDay1\TDDDay1\TDDHomework1\obj\Debug\TDDHomework1.exe
+D:\Prog\TDDDay1\TDDDay1\TDDHomework1\obj\Debug\TDDHomework1.pdb

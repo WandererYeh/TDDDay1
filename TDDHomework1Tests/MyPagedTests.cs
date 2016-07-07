@@ -43,7 +43,7 @@ namespace TDDHomework1.Tests
             var actual = target.MyPagedValue(testdata, count, field);
 
             //assert
-            expected.ToExpectedObject().ShouldMatch(actual);
+            expected.ToExpectedObject().ShouldEqual(actual);
         }
 
         [TestMethod()]
@@ -60,7 +60,7 @@ namespace TDDHomework1.Tests
             var actual = target.MyPagedValue(testdata, count, field);
 
             //assert
-            expected.ToExpectedObject().ShouldMatch(actual);
+            expected.ToExpectedObject().ShouldEqual(actual);
         }
     }
 }
